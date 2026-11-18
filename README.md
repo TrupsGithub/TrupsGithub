@@ -1,16 +1,34 @@
-## Hi there 👋
+Hi, I'm Trupti Sutar 👋
 
-<!--
-**TrupsGithub/TrupsGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer | Full-Stack Web Developer
 
-Here are some ideas to get you started:
+I'm a Software Developer at Acute Solution, working on the development and maintenance of ERP systems and web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tech Stack
+
+- Frontend: React.js, JavaScript, TypeScript, HTML, CSS, Tailwind CSS
+- Backend: PHP, Laravel
+- Database: MySQL
+- Architecture: MVC
+
+🚀 What I Do
+
+- Develop and maintain ERP applications.
+- Build responsive web interfaces using React.
+- Develop backend features using PHP and Laravel.
+- Design and optimize MySQL databases.
+- Troubleshoot issues and improve application performance.
+- Convert business requirements into software solutions.
+
+🌱 Currently
+
+- Improving my full-stack development skills.
+- Exploring scalable web application development.
+- Learning new technologies and best practices.
+
+🤝 Connect With Me
+
+- LinkedIn: "Trupti Sutar" (https://www.linkedin.com/in/trupti-sutar-928305229)
+- GitHub: "@TrupsGithub" (https://github.com/TrupsGithub)
+
+⭐ Thanks for visiting my profile!
